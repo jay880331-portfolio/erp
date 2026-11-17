@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /dashboard/
+
+# RIDGE ERP - 원주 중소기업 ERP 시스템
+Sitemap: https://ridgeerp.co.kr/sitemap.xml
